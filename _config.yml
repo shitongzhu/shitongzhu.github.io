@@ -1,24 +1,22 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Shitong Zhu
+url: "https://shitong.me"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
-tracking_id: #
+#tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_text: "Created by Jekyll with love"
 
 sass:
     style: compressed
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
+ - name: "CV [Feb/2019]"
+   link: "CV_Shitong_201902.pdf"
  - name: "Contact"
    link: "contact"
