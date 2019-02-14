@@ -23,8 +23,10 @@ Jul/2015: Joined Douban Inc. as a software engineering intern.
 ## Research Interest
 
 I'm broadly interested in computer security and web privacy. 
-My current research focuses on **privacy-enhancing techniques**.
+My past research focuses on **privacy-enhancing techniques**.
 More specifically, I'm working on improving the effectiveness of adblocking by (i) analyzing the escalating arms race between adblockers and anti-adblockers; (ii) making adblockers stealthy against anti-adblockers via browser modifications; and (iii) leveraging machine learning to better identify advertising- and tracking-related resources.
+
+Recently, I've also started to explore Generative Adversarial Network (GAN) and its applications in security and privacy research. 
 
 ## Publications
 
