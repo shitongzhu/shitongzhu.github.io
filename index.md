@@ -23,7 +23,7 @@ Jul/2015: Joined Douban Inc. as a software engineering intern.
 ## Research Interest
 
 I'm broadly interested in computer security and web privacy. 
-My current research focuses on **privacy-enhancing techniques**.
+My current research focuses on **privacy-enhancing technologis**.
 Nowadays, the popularity of online advertisements have made them an attractive vector for various types of abuses. 
 I'm working on improving the effectiveness of adblocking by (i) measuring/analyzing the escalating arms race between adblockers and anti-adblockers through program analysis; (ii) making adblockers stealthy against anti-adblockers via browser modifications; and (iii) leveraging machine learning to better identify advertising- and tracking-related resources.
 
@@ -33,13 +33,13 @@ Recently, I've also started to explore Generative Adversarial Network (GAN) and 
 
 1. ShadowBlock: A Lightweight and Stealthy Adblocking Browser  
 **Shitong Zhu**, Umar Iqbal, Zhongjie Wang, Zhiyun Qian, Zubair Shafiq and Weiteng Chen  
-*The Web Conference (WWW), 2019*
+*The Web Conference (**WWW**), 2019*
 2. AdGraph: A Machine Learning Approach to Automatic and Effective Adblocking  
 Umar Iqbal, Zubair Shafiq, Peter Snyder, **Shitong Zhu**, Zhiyun Qian and Benjamin Livshits  
 *arXiv preprint arXiv:1805.09155*
 3. Measuring and Disrupting Anti-Adblockers Using Differential Execution Analysis  
 **Shitong Zhu**, Xunchao Hu, Zhiyun Qian, Zubair Shafiq and Heng Yin  
-*The Network and Distributed System Security Symposium (NDSS), 2018*
+*The Network and Distributed System Security Symposium (**NDSS**), 2018*
 4. On Selecting Composite Network-Cloud Services: A Quality-of-Service Based Approach  
 Minkailu Mohamed Jalloh, **Shitong Zhu**, Fang Fang and Jun Huang  
 *International Conference on Research in Adaptive and Convergent Systems (RACS), 2015*
@@ -55,7 +55,7 @@ Haokun Tang, Yukui Lu, **Shitong Zhu** and Jun Huang
 
 ## Work Experience
 
-* Consulting Intern @ Deloitte TTL  
+* Consulting Intern @ Deloitte TTL (ERS - Technology Risk)  
 Shenzhen, China - Jan/2016 to Mar/2016
 * Software Engineering Intern @ Douban Inc.  
 Beijing, China - Jul/2015 to Sep/2015
