@@ -49,7 +49,7 @@ Jun Huang, Meisong Sun, **Shitong Zhu**, Yi Sun, Cong-cong Xing and Qiang Duan
 6. A Defense Model of Reactive Worms Based on Dynamic Time  
 Haokun Tang, **Shitong Zhu**, Jun Huang and Hong Liu  
 *Journal of Software, 2014*
-7. Propagation of active worms in P2P networks: modeling and analysis  
+7. Propagation of Active Worms in P2P Networks: Modeling and Analysis  
 Haokun Tang, Yukui Lu, **Shitong Zhu** and Jun Huang  
 *Journal of Computers, 2014*
 
