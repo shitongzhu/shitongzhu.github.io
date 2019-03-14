@@ -31,19 +31,19 @@ Recently, I've also started to explore Generative Adversarial Network (GAN) and 
 
 ## Publications
 
-1. ShadowBlock: A Lightweight and Stealthy Adblocking Browser  
+1. ShadowBlock: A Lightweight and Stealthy Adblocking Browser [[paper](pdfs/www19_shadowblock.pdf)][code](https://github.com/seclab-ucr/ShadowBlock)]  
 **Shitong Zhu**, Umar Iqbal, Zhongjie Wang, Zhiyun Qian, Zubair Shafiq and Weiteng Chen  
 *The Web Conference (**WWW**), 2019*
-2. AdGraph: A Machine Learning Approach to Automatic and Effective Adblocking  
+2. AdGraph: A Machine Learning Approach to Automatic and Effective Adblocking [[paper](pdfs/arxiv18_adgraph.pdf)]  
 Umar Iqbal, Zubair Shafiq, Peter Snyder, **Shitong Zhu**, Zhiyun Qian and Benjamin Livshits  
 *arXiv preprint arXiv:1805.09155*
-3. Measuring and Disrupting Anti-Adblockers Using Differential Execution Analysis  
+3. Measuring and Disrupting Anti-Adblockers Using Differential Execution Analysis [[paper](pdfs/ndss18_anti_adblock.pdf)][[code](https://github.com/shitongzhu/Anti-anti-adblocker)]  
 **Shitong Zhu**, Xunchao Hu, Zhiyun Qian, Zubair Shafiq and Heng Yin  
 *The Network and Distributed System Security Symposium (**NDSS**), 2018*
-4. On Selecting Composite Network-Cloud Services: A Quality-of-Service Based Approach  
+4. On Selecting Composite Network-Cloud Services: A Quality-of-Service Based Approach [[paper](pdfs/racs15_composite_qos.pdf)]  
 Minkailu Mohamed Jalloh, **Shitong Zhu**, Fang Fang and Jun Huang  
 *International Conference on Research in Adaptive and Convergent Systems (RACS), 2015*
-5. A Source-location Privacy Protection Strategy via Pseudo Normal Distribution-based Phantom Routing in WSNs  
+5. A Source-location Privacy Protection Strategy via Pseudo Normal Distribution-based Phantom Routing in WSNs [[paper](pdfs/sac15_phatom_routing.pdf)]  
 Jun Huang, Meisong Sun, **Shitong Zhu**, Yi Sun, Cong-cong Xing and Qiang Duan  
 *The 30th Annual ACM Symposium on Applied Computing (SAC), 2015*
 6. A Defense Model of Reactive Worms Based on Dynamic Time  
