@@ -31,7 +31,7 @@ Recently, I've also started to explore Generative Adversarial Network (GAN) and 
 
 ## Publications
 
-1. ShadowBlock: A Lightweight and Stealthy Adblocking Browser [[paper](pdfs/www19_shadowblock.pdf)][code](https://github.com/seclab-ucr/ShadowBlock)]  
+1. ShadowBlock: A Lightweight and Stealthy Adblocking Browser [[paper](pdfs/www19_shadowblock.pdf)][[code](https://github.com/seclab-ucr/ShadowBlock)]  
 **Shitong Zhu**, Umar Iqbal, Zhongjie Wang, Zhiyun Qian, Zubair Shafiq and Weiteng Chen  
 *The Web Conference (**WWW**), 2019*
 2. AdGraph: A Machine Learning Approach to Automatic and Effective Adblocking [[paper](pdfs/arxiv18_adgraph.pdf)]  
