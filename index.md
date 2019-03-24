@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="profile.png">
 
-Howdy! I'm currently a 3rd-year Computer Science Ph.D. candidate at University of California, Riverside. My advisor is Prof [Zhiyun Qian](https://www.cs.ucr.edu/~zhiyunq/).
+Howdy! I'm currently a 3rd-year Computer Science Ph.D. candidate at University of California, Riverside (UCR). My advisor is Prof [Zhiyun Qian](https://www.cs.ucr.edu/~zhiyunq/).
 
 ## News
 Jan/2019: Paper accepted by WWW 2019.  
