@@ -9,12 +9,12 @@ layout: default
 Howdy! I'm currently a 3rd-year Computer Science Ph.D. candidate at University of California, Riverside (UCR). My advisor is Prof [Zhiyun Qian](https://www.cs.ucr.edu/~zhiyunq/).
 
 ## News
-Jan/2019: Paper accepted by WWW 2019.  
+Jan/2019: Paper accepted at WWW 2019.  
 May/2018: Manuscript posted on arXiv.  
 Feb/2018: Presented our work at NDSS 2018 in San Diego.  
-Jan/2018: Our anti-adblocking research covered by [[TechCrunch](https://techcrunch.com/2017/12/27/thousands-of-major-sites-are-taking-silent-anti-ad-blocking-measures/)] [[ArcsTechnica](https://arstechnica.com/science/2018/01/academic-researchers-fire-latest-shots-in-ad-blocking-arms-race/)]  
+Jan/2018: Our anti-adblocking research covered by [[TechCrunch](https://techcrunch.com/2017/12/27/thousands-of-major-sites-are-taking-silent-anti-ad-blocking-measures/)] [[Arcs Technica](https://arstechnica.com/science/2018/01/academic-researchers-fire-latest-shots-in-ad-blocking-arms-race/)]  
 Dec/2017: Invited to present our work at Data Transparency Lab Conference as a grantee in Barcelona. Thanks DTL!  
-Oct/2017: Paper accepted by NDSS 2018.  
+Oct/2017: Paper accepted at NDSS 2018.  
 Sep/2016: Started Ph.D. at University of California, Riverside.  
 Jul/2016: Graduated from CQUPT with Honors.  
 Jan/2016: Joined Deloitte TTL as a consulting intern.  
@@ -23,11 +23,11 @@ Jul/2015: Joined Douban Inc. as a software engineering intern.
 ## Research Interest
 
 I'm broadly interested in computer security and web privacy. 
-My current research focuses on **privacy-enhancing technologis**.
-Nowadays, the popularity of online advertisements have made them an attractive vector for various types of abuses. 
+My current research focuses on **privacy-enhancing technologies**.
+Nowadays, the popularity of online advertisements has made them an attractive vector for various types of abuses. 
 I'm working on improving the effectiveness of adblocking by (i) measuring/analyzing the escalating arms race between adblockers and anti-adblockers through program analysis; (ii) making adblockers stealthy against anti-adblockers via browser modifications; and (iii) leveraging machine learning to better identify advertising- and tracking-related resources.
 
-Recently, I've also started to explore Generative Adversarial Network (GAN) and its applications in security and privacy research. 
+Recently, I've also started to explore adversarial examples, Generative Adversarial Network (GAN), and their applications in security and privacy research. 
 
 ## Publications
 
