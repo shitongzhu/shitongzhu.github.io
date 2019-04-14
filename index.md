@@ -48,10 +48,10 @@ Jun Huang, Meisong Sun, **Shitong Zhu**, Yi Sun, Cong-cong Xing and Qiang Duan
 *The 30th Annual ACM Symposium on Applied Computing (SAC), Salamanca, Spain, April 2015*
 6. A Defense Model of Reactive Worms Based on Dynamic Time  
 Haokun Tang, **Shitong Zhu**, Jun Huang and Hong Liu  
-*Journal of Software, 2014*
+*Journal of Software, Nov 2014*
 7. Propagation of Active Worms in P2P Networks: Modeling and Analysis  
 Haokun Tang, Yukui Lu, **Shitong Zhu** and Jun Huang  
-*Journal of Computers, 2014*
+*Journal of Computers, Nov 2014*
 
 ## Posters
 1. ShadowBlock: A Lightweight and Stealthy Adblocking Browser [[poster](pdfs/midwest19_shadowblock.pdf)]  
