@@ -37,15 +37,15 @@ Recently, I've also started to explore adversarial examples, Generative Adversar
 2. AdGraph: A Machine Learning Approach to Automatic and Effective Adblocking [[paper](pdfs/arxiv18_adgraph.pdf)][[slides](pdfs/arxiv18_adgraph_slides.pdf)]  
 Umar Iqbal, Zubair Shafiq, Peter Snyder, **Shitong Zhu**, Zhiyun Qian and Benjamin Livshits  
 *arXiv preprint arXiv:1805.09155*
-3. Measuring and Disrupting Anti-Adblockers Using Differential Execution Analysis [[paper](pdfs/ndss18_anti_adblock.pdf)][[slides](pdfs/ndss18_anti_adblock_slides.pdf)][[code](https://github.com/shitongzhu/Anti-anti-adblocker)]  
+3. Measuring and Disrupting Anti-Adblockers Using Differential Execution Analysis [[paper](pdfs/ndss18_anti_adblock.pdf)][[slides](pdfs/ndss18_anti_adblock_slides.pdf)][[video](https://www.youtube.com/watch?v=HWFXKXXd-AY)][[code](https://github.com/shitongzhu/Anti-anti-adblocker)]  
 **Shitong Zhu**, Xunchao Hu, Zhiyun Qian, Zubair Shafiq and Heng Yin  
 *The Network and Distributed System Security Symposium (**NDSS**), San Diego, CA, Feb 2018*
 4. On Selecting Composite Network-Cloud Services: A Quality-of-Service Based Approach [[paper](pdfs/racs15_composite_qos.pdf)]  
 Minkailu Mohamed Jalloh, **Shitong Zhu**, Fang Fang and Jun Huang  
-*International Conference on Research in Adaptive and Convergent Systems (RACS), 2015*
+*International Conference on Research in Adaptive and Convergent Systems (RACS), Prague, Czech, Oct 2015*
 5. A Source-location Privacy Protection Strategy via Pseudo Normal Distribution-based Phantom Routing in WSNs [[paper](pdfs/sac15_phatom_routing.pdf)]  
 Jun Huang, Meisong Sun, **Shitong Zhu**, Yi Sun, Cong-cong Xing and Qiang Duan  
-*The 30th Annual ACM Symposium on Applied Computing (SAC), 2015*
+*The 30th Annual ACM Symposium on Applied Computing (SAC), Salamanca, Spain, April 2015*
 6. A Defense Model of Reactive Worms Based on Dynamic Time  
 Haokun Tang, **Shitong Zhu**, Jun Huang and Hong Liu  
 *Journal of Software, 2014*
