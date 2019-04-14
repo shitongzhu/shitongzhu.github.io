@@ -42,7 +42,7 @@ Umar Iqbal, Zubair Shafiq, Peter Snyder, **Shitong Zhu**, Zhiyun Qian and Benjam
 *The Network and Distributed System Security Symposium (**NDSS**), San Diego, CA, Feb 2018*
 4. On Selecting Composite Network-Cloud Services: A Quality-of-Service Based Approach [[paper](pdfs/racs15_composite_qos.pdf)]  
 Minkailu Mohamed Jalloh, **Shitong Zhu**, Fang Fang and Jun Huang  
-*International Conference on Research in Adaptive and Convergent Systems (RACS), Prague, Czech, Oct 2015*
+*International Conference on Research in Adaptive and Convergent Systems (RACS), Prague, Czechia, Oct 2015*
 5. A Source-location Privacy Protection Strategy via Pseudo Normal Distribution-based Phantom Routing in WSNs [[paper](pdfs/sac15_phatom_routing.pdf)]  
 Jun Huang, Meisong Sun, **Shitong Zhu**, Yi Sun, Cong-cong Xing and Qiang Duan  
 *The 30th Annual ACM Symposium on Applied Computing (SAC), Salamanca, Spain, April 2015*
