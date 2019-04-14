@@ -46,10 +46,10 @@ Minkailu Mohamed Jalloh, **Shitong Zhu**, Fang Fang and Jun Huang
 5. A Source-location Privacy Protection Strategy via Pseudo Normal Distribution-based Phantom Routing in WSNs [[paper](pdfs/sac15_phatom_routing.pdf)]  
 Jun Huang, Meisong Sun, **Shitong Zhu**, Yi Sun, Cong-cong Xing and Qiang Duan  
 *The 30th Annual ACM Symposium on Applied Computing (SAC), Salamanca, Spain, April 2015*
-6. A Defense Model of Reactive Worms Based on Dynamic Time  
+6. A Defense Model of Reactive Worms Based on Dynamic Time [[paper](pdfs/jsw14_reactive_worms.pdf)]  
 Haokun Tang, **Shitong Zhu**, Jun Huang and Hong Liu  
 *Journal of Software, Nov 2014*
-7. Propagation of Active Worms in P2P Networks: Modeling and Analysis  
+7. Propagation of Active Worms in P2P Networks: Modeling and Analysis [[paper](pdfs/jcp14_active_worms.pdf)]  
 Haokun Tang, Yukui Lu, **Shitong Zhu** and Jun Huang  
 *Journal of Computers, Nov 2014*
 
