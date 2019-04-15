@@ -16,7 +16,7 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "CV [Feb/2019]"
+ - name: "CV [Feb 2019]"
    link: "pdfs/CV_Shitong_201902.pdf"
  - name: "Google Scholar"
    link: "https://scholar.google.com/citations?user=xwOzrucAAAAJ&hl=en"
