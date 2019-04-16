@@ -27,7 +27,7 @@ My current research focuses on **privacy-enhancing technologies**.
 Nowadays, the popularity of online advertisements has made them an attractive vector for various types of abuses. 
 I'm working on improving the effectiveness of adblocking by (i) measuring/analyzing the escalating arms race between adblockers and anti-adblockers through program analysis; (ii) making adblockers stealthy against anti-adblockers via browser modifications; and (iii) leveraging machine learning to better identify advertising- and tracking-related resources.
 
-Recently, I've also started to explore adversarial examples, Generative Adversarial Network (GAN), and their applications in security and privacy research. 
+Recently, I've also started to explore **adversarial machine learning** (e.g. adversarial example, Generative Adversarial Network (GAN)), and their applications in security and privacy research. 
 
 ## Publications
 
