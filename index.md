@@ -9,6 +9,8 @@ layout: default
 Howdy! I'm currently a 3rd-year Computer Science Ph.D. candidate at University of California, Riverside (UCR). My advisor is Prof [Zhiyun Qian](https://www.cs.ucr.edu/~zhiyunq/).
 
 ## News
+May/2019: Our paper on ML/graph-based adblocking accepted at IEEE S&P 2020.  
+May/2019: Presented ShadowBlock at WWW 2019.  
 Jan/2019: Paper accepted at WWW 2019.  
 May/2018: Manuscript posted on arXiv.  
 Feb/2018: Presented our work at NDSS 2018 in San Diego.  
@@ -31,12 +33,12 @@ Recently, I've also started to explore **adversarial machine learning** (e.g. ad
 
 ## Publications
 
-1. ShadowBlock: A Lightweight and Stealthy Adblocking Browser [[paper](pdfs/www19_shadowblock.pdf)][[code](https://github.com/seclab-ucr/ShadowBlock)][[demo](https://www.youtube.com/watch?v=RLC90MU8Xdg)]  
+1. AdGraph: A Machine Learning Approach to Automatic and Effective Adblocking [[paper](pdfs/arxiv18_adgraph.pdf)][[slides](pdfs/arxiv18_adgraph_slides.pdf)]  
+Umar Iqbal, Peter Snyder, **Shitong Zhu**, Benjamin Livshits, Zhiyun Qian and Zubair Shafiq  
+To appear in the Proceedings of the ***IEEE Symposium on Security & Privacy (S&P)***, May 2020
+2. ShadowBlock: A Lightweight and Stealthy Adblocking Browser [[paper](pdfs/www19_shadowblock.pdf)][[code](https://github.com/seclab-ucr/ShadowBlock)][[demo](https://www.youtube.com/watch?v=RLC90MU8Xdg)]  
 **Shitong Zhu**, Umar Iqbal, Zhongjie Wang, Zhiyun Qian, Zubair Shafiq and Weiteng Chen  
 ***The Web Conference (WWW)**, San Francisco, CA, May 2019*
-2. AdGraph: A Machine Learning Approach to Automatic and Effective Adblocking [[paper](pdfs/arxiv18_adgraph.pdf)][[slides](pdfs/arxiv18_adgraph_slides.pdf)]  
-Umar Iqbal, Zubair Shafiq, Peter Snyder, **Shitong Zhu**, Zhiyun Qian and Benjamin Livshits  
-*arXiv preprint arXiv:1805.09155*
 3. Measuring and Disrupting Anti-Adblockers Using Differential Execution Analysis [[paper](pdfs/ndss18_anti_adblock.pdf)][[slides](pdfs/ndss18_anti_adblock_slides.pdf)][[video](https://www.youtube.com/watch?v=HWFXKXXd-AY)][[code](https://github.com/shitongzhu/Anti-anti-adblocker)]  
 **Shitong Zhu**, Xunchao Hu, Zhiyun Qian, Zubair Shafiq and Heng Yin  
 ***The Network and Distributed System Security Symposium (NDSS)**, San Diego, CA, Feb 2018*
