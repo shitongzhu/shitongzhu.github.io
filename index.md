@@ -33,7 +33,7 @@ Recently, I've also started to explore **adversarial machine learning** (e.g. ad
 
 ## Publications
 
-1. AdGraph: A Machine Learning Approach to Automatic and Effective Adblocking [[paper](pdfs/arxiv18_adgraph.pdf)][[slides](pdfs/arxiv18_adgraph_slides.pdf)]  
+1. AdGraph: A Machine Learning Approach to Automatic and Effective Adblocking [[arVix ver.](pdfs/arxiv18_adgraph.pdf)]]  
 Umar Iqbal, Peter Snyder, **Shitong Zhu**, Benjamin Livshits, Zhiyun Qian and Zubair Shafiq  
 To appear in the Proceedings of the ***IEEE Symposium on Security & Privacy (S&P)***, May 2020
 2. ShadowBlock: A Lightweight and Stealthy Adblocking Browser [[paper](pdfs/www19_shadowblock.pdf)][[code](https://github.com/seclab-ucr/ShadowBlock)][[demo](https://www.youtube.com/watch?v=RLC90MU8Xdg)]  
