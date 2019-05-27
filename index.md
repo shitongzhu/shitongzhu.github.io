@@ -65,7 +65,7 @@ Haokun Tang, Yukui Lu, **Shitong Zhu** and Jun Huang
 1. Detection and Circumvention of Ad-Block Detectors [[video](https://www.youtube.com/watch?v=c4n8EGb27Gc)]  
 *Data Transparency Lab Conference, Barcelona, Spain, Dec 2017*
 2. Arms Race between Adblockers and Anti-adblockers  
-*Mozilla Security Research Summit, 2019*  
+*Mozilla Security Research Summit, San Francisco, CA, May 2019*  
 
 ## Work Experience
 
