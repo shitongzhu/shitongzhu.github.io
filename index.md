@@ -9,7 +9,7 @@ layout: default
 Howdy! I'm currently a 3rd-year Computer Science Ph.D. candidate at University of California, Riverside (UCR). My advisor is Prof [Zhiyun Qian](https://www.cs.ucr.edu/~zhiyunq/).
 
 ## News
-May/2019: Invited to present our work at [Mozilla Security Research Summit 2019](https://events.mozilla.org/moz2019securityresearchsummit)  
+May/2019: Invited to present our work at [Mozilla Security Research Summit 2019](https://events.mozilla.org/moz2019securityresearchsummit).  
 May/2019: Our paper on ML/graph-based adblocking accepted at IEEE S&P 2020.  
 May/2019: Presented ShadowBlock at WWW 2019.  
 Jan/2019: Paper accepted at WWW 2019.  
@@ -34,7 +34,7 @@ Recently, I've also started to explore **adversarial machine learning** (e.g. ad
 
 ## Publications
 
-1. AdGraph: A Graph-Based Approach to Ad and Tracker Blocking [[arVix ver.](pdfs/arxiv18_adgraph.pdf)]  
+1. AdGraph: A Graph-Based Approach to Ad and Tracker Blocking [[arVix ver.](https://arxiv.org/pdf/1805.09155.pdf)]  
 Umar Iqbal, Peter Snyder, **Shitong Zhu**, Benjamin Livshits, Zhiyun Qian and Zubair Shafiq  
 To appear in the Proceedings of the ***IEEE Symposium on Security & Privacy (S&P)***, May 2020
 2. ShadowBlock: A Lightweight and Stealthy Adblocking Browser [[paper](pdfs/www19_shadowblock.pdf)][[code](https://github.com/seclab-ucr/ShadowBlock)][[demo](https://www.youtube.com/watch?v=RLC90MU8Xdg)]  
