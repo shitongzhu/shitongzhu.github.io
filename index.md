@@ -10,7 +10,7 @@ Howdy! I'm currently a 3rd-year Computer Science Ph.D. candidate at University o
 
 ## News
 Jun/2019: Joined [Samsung Research America (SRA)](https://www.sra.samsung.com/) as a research intern.  
-May/2019: Invited to present our work at [Mozilla Security Research Summit 2019](https://events.mozilla.org/moz2019securityresearchsummit)[[video](https://www.youtube.com/watch?v=NDGw-3vyx_M)].  
+May/2019: Invited to present our work at [Mozilla Security Research Summit 2019](https://events.mozilla.org/moz2019securityresearchsummit) [[video](https://www.youtube.com/watch?v=NDGw-3vyx_M)].  
 May/2019: Our paper on ML/graph-based adblocking accepted at IEEE S&P 2020.  
 May/2019: Presented ShadowBlock at WWW 2019.  
 Jan/2019: Paper accepted at WWW 2019.  
