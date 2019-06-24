@@ -9,6 +9,7 @@ layout: default
 Howdy! I'm currently a 3rd-year Computer Science Ph.D. candidate at University of California, Riverside (UCR). My advisor is Prof [Zhiyun Qian](https://www.cs.ucr.edu/~zhiyunq/).
 
 ## News
+Jun/2019: Joined [Samsung Research America (SRA)](https://www.sra.samsung.com/) as a research intern.  
 May/2019: Invited to present our work at [Mozilla Security Research Summit 2019](https://events.mozilla.org/moz2019securityresearchsummit).  
 May/2019: Our paper on ML/graph-based adblocking accepted at IEEE S&P 2020.  
 May/2019: Presented ShadowBlock at WWW 2019.  
@@ -69,6 +70,8 @@ Haokun Tang, Yukui Lu, **Shitong Zhu** and Jun Huang
 
 ## Work Experience
 
+* Research Intern @ Samsung Research America.  
+Mountain View, CA - Jun/2019 to Sep/2019
 * Consulting Intern @ Deloitte TTL (ERS - Technology Risk)  
 Shenzhen, China - Jan/2016 to Mar/2016
 * Software Engineering Intern @ Douban Inc.  
