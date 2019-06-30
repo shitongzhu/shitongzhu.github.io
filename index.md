@@ -35,7 +35,7 @@ Recently, I've also started to explore **adversarial machine learning** (e.g. ad
 
 ## Publications
 
-1. AdGraph: A Graph-Based Approach to Ad and Tracker Blocking [[arVix ver.](https://arxiv.org/pdf/1805.09155.pdf)]  
+1. AdGraph: A Graph-Based Approach to Ad and Tracker Blocking [[arVix ver.](https://arxiv.org/pdf/1805.09155.pdf)][[code](https://uiowa-irl.github.io/AdGraph/)]  
 Umar Iqbal, Peter Snyder, **Shitong Zhu**, Benjamin Livshits, Zhiyun Qian and Zubair Shafiq  
 To appear in the Proceedings of the ***IEEE Symposium on Security & Privacy (S&P)***, May 2020
 2. ShadowBlock: A Lightweight and Stealthy Adblocking Browser [[paper](pdfs/www19_shadowblock.pdf)][[code](https://github.com/seclab-ucr/ShadowBlock)][[demo](https://www.youtube.com/watch?v=RLC90MU8Xdg)]  
