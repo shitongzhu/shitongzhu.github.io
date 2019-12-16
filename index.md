@@ -9,7 +9,7 @@ layout: default
 Howdy! I'm currently a 3rd-year Computer Science Ph.D. candidate at University of California, Riverside (UCR). My advisor is Prof [Zhiyun Qian](https://www.cs.ucr.edu/~zhiyunq/).
 
 ## News
-Dec/2019: Joined [Samsung Research America (SRA)](https://www.sra.samsung.com/) again as a research intern.
+Dec/2019: Joined [Samsung Research America (SRA)](https://www.sra.samsung.com/) again as a research intern.  
 Dec/2019: Invited to give a talk at [XJTU](http://men.xjtu.edu.cn/) [InForSec](https://www.inforsec.org/wp/) event in Xi'an, China.  
 Jun/2019: Joined [Samsung Research America (SRA)](https://www.sra.samsung.com/) as a research intern.  
 May/2019: Invited to present our work at [Mozilla Security Research Summit 2019](https://events.mozilla.org/moz2019securityresearchsummit) [[video](https://www.youtube.com/watch?v=NDGw-3vyx_M)].  
