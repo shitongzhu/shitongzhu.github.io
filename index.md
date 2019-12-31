@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="profile.png">
 
-Howdy! I'm currently a 3rd-year Computer Science Ph.D. candidate at University of California, Riverside (UCR). My advisor is Prof [Zhiyun Qian](https://www.cs.ucr.edu/~zhiyunq/).
+Howdy! I'm currently a 4th-year Computer Science Ph.D. candidate at University of California, Riverside (UCR). My advisor is Prof [Zhiyun Qian](https://www.cs.ucr.edu/~zhiyunq/).
 
 ## News
 Dec/2019: Joined [Samsung Research America (SRA)](https://www.sra.samsung.com/) again as a research intern.  
@@ -40,7 +40,7 @@ Recently, I've also started to explore **adversarial machine learning** (e.g. ad
 
 1. SymTCP: Eluding Stateful Deep Packet Inspection with Automated Discrepancy Discovery  
 Zhongjie Wang, **Shitong Zhu**, Yue Cao, Zhiyun Qian, Chengyu Song, Srikanth Krishnamurthy, Tracy D. Braun and Kevin S. Chan  
-To appear in the Proceedings of the ***Network & Distributed System Security Symposium (NDSS)***, Feb 2019
+To appear in the Proceedings of the ***Network & Distributed System Security Symposium (NDSS)***, Feb 2020
 2. AdGraph: A Graph-Based Approach to Ad and Tracker Blocking [[arVix ver.](https://arxiv.org/pdf/1805.09155.pdf)][[code](https://uiowa-irl.github.io/AdGraph/)]  
 Umar Iqbal, Peter Snyder, **Shitong Zhu**, Benjamin Livshits, Zhiyun Qian and Zubair Shafiq  
 To appear in the Proceedings of the ***IEEE Symposium on Security & Privacy (S&P)***, May 2020
