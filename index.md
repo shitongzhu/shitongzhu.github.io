@@ -41,7 +41,7 @@ Recently, I've also started to explore **adversarial machine learning** (e.g. ad
 1. SymTCP: Eluding Stateful Deep Packet Inspection with Automated Discrepancy Discovery  
 Zhongjie Wang, **Shitong Zhu**, Yue Cao, Zhiyun Qian, Chengyu Song, Srikanth Krishnamurthy, Tracy D. Braun and Kevin S. Chan  
 To appear in the Proceedings of the ***Network & Distributed System Security Symposium (NDSS)***, Feb 2020
-2. AdGraph: A Graph-Based Approach to Ad and Tracker Blocking [[arVix ver.](https://arxiv.org/pdf/1805.09155.pdf)][[code](https://uiowa-irl.github.io/AdGraph/)]  
+2. AdGraph: A Graph-Based Approach to Ad and Tracker Blocking [[paper](pdfs/oakland20_adgraph.pdf)][[code](https://uiowa-irl.github.io/AdGraph/)]  
 Umar Iqbal, Peter Snyder, **Shitong Zhu**, Benjamin Livshits, Zhiyun Qian and Zubair Shafiq  
 To appear in the Proceedings of the ***IEEE Symposium on Security & Privacy (S&P)***, May 2020
 3. ShadowBlock: A Lightweight and Stealthy Adblocking Browser [[paper](pdfs/www19_shadowblock.pdf)][[code](https://github.com/seclab-ucr/ShadowBlock)][[demo](https://www.youtube.com/watch?v=RLC90MU8Xdg)]  
@@ -49,7 +49,7 @@ To appear in the Proceedings of the ***IEEE Symposium on Security & Privacy (S&P
 ***The Web Conference (WWW)**, San Francisco, CA, May 2019*
 4. Measuring and Disrupting Anti-Adblockers Using Differential Execution Analysis [[paper](pdfs/ndss18_anti_adblock.pdf)][[slides](pdfs/ndss18_anti_adblock_slides.pdf)][[video](https://www.youtube.com/watch?v=HWFXKXXd-AY)][[code](https://github.com/shitongzhu/Anti-anti-adblocker)]  
 **Shitong Zhu**, Xunchao Hu, Zhiyun Qian, Zubair Shafiq and Heng Yin  
-***The Network and Distributed System Security Symposium (NDSS)**, San Diego, CA, Feb 2018*
+***The Network & Distributed System Security Symposium (NDSS)**, San Diego, CA, Feb 2018*
 5. On Selecting Composite Network-Cloud Services: A Quality-of-Service Based Approach [[paper](pdfs/racs15_composite_qos.pdf)]  
 Minkailu Mohamed Jalloh, **Shitong Zhu**, Fang Fang and Jun Huang  
 *International Conference on Research in Adaptive and Convergent Systems (RACS), Prague, Czechia, Oct 2015*
