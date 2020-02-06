@@ -9,7 +9,8 @@ layout: default
 Howdy! I'm currently a 4th-year Computer Science Ph.D. candidate at University of California, Riverside (UCR). My advisor is Prof [Zhiyun Qian](https://www.cs.ucr.edu/~zhiyunq/).
 
 ## News
-Jan/2019: Joined [Samsung Research America (SRA)](https://www.sra.samsung.com/) again as a research intern.  
+Jan/2020: Manuscript posted on arXiv.  
+Jan/2020: Joined [Samsung Research America (SRA)](https://www.sra.samsung.com/) again as a research intern.  
 Dec/2019: Our paper on eluding stateful DPI systems is conditionally accepted at NDSS 2020.  
 Dec/2019: Invited to give a talk at [XJTU](http://men.xjtu.edu.cn/) [InForSec](https://www.inforsec.org/wp/) event in Xi'an, China.  
 Jun/2019: Joined [Samsung Research America (SRA)](https://www.sra.samsung.com/) as a research intern.  
@@ -37,13 +38,13 @@ I'm working on improving the effectiveness of adblocking by (i) measuring/analyz
 Recently, I've also started to explore **adversarial machine learning** (e.g. adversarial example, Generative Adversarial Network (GAN)), and their applications in security and privacy research. 
 
 ## Pre-prints
-1. A4: Evading Learning-based Adblockers [[draft](https://arxiv.org/abs/2001.10999)]]  
-**Shitong Zhu**, Zhongjie Wang, Xun Chen, Shasha Li, Umar Iqbal, Zhiyun Qian, Kevin S Chan, Srikanth V Krishnamurthy and Zubair Shafiq
+1. A4: Evading Learning-based Adblockers [[manuscript](https://arxiv.org/abs/2001.10999)]  
+**Shitong Zhu**, Zhongjie Wang, Xun Chen, Shasha Li, Umar Iqbal, Zhiyun Qian, Kevin S Chan, Srikanth V Krishnamurthy and Zubair Shafiq  
 arXiv preprint arXiv:2001.10999  
 
 ## Publications
 
-1. SymTCP: Eluding Stateful Deep Packet Inspection with Automated Discrepancy Discovery [[paper](pdfs/ndss20_symtcp.pdf)][[code](https://github.com/seclab-ucr/sym-tcp)]]  
+1. SymTCP: Eluding Stateful Deep Packet Inspection with Automated Discrepancy Discovery [[paper](pdfs/ndss20_symtcp.pdf)][[code](https://github.com/seclab-ucr/sym-tcp)]  
 Zhongjie Wang, **Shitong Zhu**, Yue Cao, Zhiyun Qian, Chengyu Song, Srikanth Krishnamurthy, Tracy D. Braun and Kevin S. Chan  
 To appear in the Proceedings of the ***Network & Distributed System Security Symposium (NDSS)***, Feb 2020
 2. AdGraph: A Graph-Based Approach to Ad and Tracker Blocking [[paper](pdfs/oakland20_adgraph.pdf)][[code](https://uiowa-irl.github.io/AdGraph/)]  
