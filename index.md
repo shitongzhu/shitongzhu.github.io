@@ -85,7 +85,7 @@ Haokun Tang, Yukui Lu, **Shitong Zhu** and Jun Huang
 ## Work Experience
 
 * Research Intern @ Samsung Research America.  
-Remote - Dec/2019 to present  
+Remote - Jan/2020 to present  
 Mountain View, CA - Jun/2019 to Sep/2019
 * Consulting Intern @ Deloitte TTL (ERS - Technology Risk)  
 Shenzhen, China - Jan/2016 to Mar/2016
