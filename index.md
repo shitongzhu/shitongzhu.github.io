@@ -9,7 +9,7 @@ layout: default
 Howdy! I'm currently a 4th-year Computer Science Ph.D. candidate at University of California, Riverside (UCR). My advisor is Prof [Zhiyun Qian](https://www.cs.ucr.edu/~zhiyunq/).
 
 ## News
-Dec/2019: Our paper on leveraging context consistency to detect adversarial perturbations for object detectors accepted at ECCV 2020.  
+Jul/2020: Our paper on leveraging context consistency to detect adversarial perturbations for object detectors accepted at ECCV 2020.  
 Apr/2020: Received the Dissertation Year Program (DYP) Award. Thanks UCR!  
 Jan/2020: Manuscript posted on arXiv.  
 Jan/2020: Joined [Samsung Research America (SRA)](https://www.sra.samsung.com/) again as a research intern.  
