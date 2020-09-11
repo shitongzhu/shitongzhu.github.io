@@ -49,22 +49,22 @@ arXiv preprint arXiv:2001.10999
 
 1. You Do (Not) Belong Here: Detecting DPI Evasion Attacks with Context Learning  
 **Shitong Zhu**, Shasha Li, Zhongjie Wang, Xun Chen, Zhiyun Qian, Srikanth V. Krishnamurthy, Kevin S. Chan, Ananthram Swami  
-To appear in ***Conference on emerging Networking EXperiments and Technologies (CoNEXT)***, Virtual, Dec 2020*
+To appear in ***Conference on emerging Networking EXperiments and Technologies (CoNEXT)**, Virtual, Dec 2020*
 2. Connecting the Dots: Detecting Adversarial Perturbations Using Context Inconsistency  
 Shasha Li, **Shitong Zhu**, Sudipta Paul, Amit Roy-chowdhury, Chengyu Song, Srikanth Krishnamurthy, Ananthram Swami, Kevin S Chan  
-***European Conference on Computer Vision (ECCV)***, Virtual, Aug 2020*
+***European Conference on Computer Vision (ECCV)**, Virtual, Aug 2020*
 3. AdGraph: A Graph-Based Approach to Ad and Tracker Blocking [[paper](pdfs/oakland20_adgraph.pdf)][[code](https://uiowa-irl.github.io/AdGraph/)]  
 Umar Iqbal, Peter Snyder, **Shitong Zhu**, Benjamin Livshits, Zhiyun Qian and Zubair Shafiq  
-***IEEE Symposium on Security & Privacy (S&P)***, Virtual, May 2020*
+***IEEE Symposium on Security & Privacy (S&P)**, Virtual, May 2020*
 4. SymTCP: Eluding Stateful Deep Packet Inspection with Automated Discrepancy Discovery [[paper](pdfs/ndss20_symtcp.pdf)][[code](https://github.com/seclab-ucr/sym-tcp)]  
 Zhongjie Wang, **Shitong Zhu**, Yue Cao, Zhiyun Qian, Chengyu Song, Srikanth Krishnamurthy, Tracy D. Braun and Kevin S. Chan  
-***Network & Distributed System Security Symposium (NDSS)***, San Diego, CA, Feb 2020*
+***Network & Distributed System Security Symposium (NDSS)**, San Diego, CA, Feb 2020*
 5. ShadowBlock: A Lightweight and Stealthy Adblocking Browser [[paper](pdfs/www19_shadowblock.pdf)][[code](https://github.com/seclab-ucr/ShadowBlock)][[demo](https://www.youtube.com/watch?v=RLC90MU8Xdg)]  
 **Shitong Zhu**, Umar Iqbal, Zhongjie Wang, Zhiyun Qian, Zubair Shafiq and Weiteng Chen  
-***The Web Conference (WWW)***, San Francisco, CA, May 2019*
+***The Web Conference (WWW)**, San Francisco, CA, May 2019*
 6. Measuring and Disrupting Anti-Adblockers Using Differential Execution Analysis [[paper](pdfs/ndss18_anti_adblock.pdf)][[slides](pdfs/ndss18_anti_adblock_slides.pdf)][[video](https://www.youtube.com/watch?v=HWFXKXXd-AY)][[code](https://github.com/shitongzhu/Anti-anti-adblocker)]  
 **Shitong Zhu**, Xunchao Hu, Zhiyun Qian, Zubair Shafiq and Heng Yin  
-***The Network & Distributed System Security Symposium (NDSS)***, San Diego, CA, Feb 2018*
+***The Network & Distributed System Security Symposium (NDSS)**, San Diego, CA, Feb 2018*
 7. On Selecting Composite Network-Cloud Services: A Quality-of-Service Based Approach [[paper](pdfs/racs15_composite_qos.pdf)]  
 Minkailu Mohamed Jalloh, **Shitong Zhu**, Fang Fang and Jun Huang  
 *International Conference on Research in Adaptive and Convergent Systems (RACS), Prague, Czechia, Oct 2015*
