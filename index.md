@@ -47,7 +47,7 @@ arXiv preprint arXiv:2001.10999
 
 ## Publications
 
-1. Connecting the Dots: Detecting Adversarial Perturbations Using Context Inconsistency  
+1. You Do (Not) Belong Here: Detecting DPI Evasion Attacks with Context Learning  
 **Shitong Zhu**, Shasha Li, Zhongjie Wang, Xun Chen, Zhiyun Qian, Srikanth V. Krishnamurthy, Kevin S. Chan, Ananthram Swami  
 To appear in ***Conference on emerging Networking EXperiments and Technologies (CoNEXT)***, Virtual, Dec 2020*
 2. Connecting the Dots: Detecting Adversarial Perturbations Using Context Inconsistency  
