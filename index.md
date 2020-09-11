@@ -9,6 +9,7 @@ layout: default
 Howdy! I'm currently a 4th-year Computer Science Ph.D. candidate at University of California, Riverside (UCR). My advisor is Prof [Zhiyun Qian](https://www.cs.ucr.edu/~zhiyunq/).
 
 ## News
+Jul/2020: Our paper on leveraging context learning to thwart DPI evasion attacks conditionally accepted at CoNEXT 2020.  
 Jul/2020: Our paper on leveraging context consistency to detect adversarial perturbations for object detectors accepted at ECCV 2020.  
 Apr/2020: Received the Dissertation Year Program (DYP) Award. Thanks UCR!  
 Jan/2020: Manuscript posted on arXiv.  
@@ -47,30 +48,33 @@ arXiv preprint arXiv:2001.10999
 ## Publications
 
 1. Connecting the Dots: Detecting Adversarial Perturbations Using Context Inconsistency  
+**Shitong Zhu**, Shasha Li, Zhongjie Wang, Xun Chen, Zhiyun Qian, Srikanth V. Krishnamurthy, Kevin S. Chan, Ananthram Swami  
+To appear in ***Conference on emerging Networking EXperiments and Technologies (CoNEXT)***, Virtual, Dec 2020*
+2. Connecting the Dots: Detecting Adversarial Perturbations Using Context Inconsistency  
 Shasha Li, **Shitong Zhu**, Sudipta Paul, Amit Roy-chowdhury, Chengyu Song, Srikanth Krishnamurthy, Ananthram Swami, Kevin S Chan  
-***European Conference on Computer Vision (ECCV)**, Virtual, Aug 2020*
-2. AdGraph: A Graph-Based Approach to Ad and Tracker Blocking [[paper](pdfs/oakland20_adgraph.pdf)][[code](https://uiowa-irl.github.io/AdGraph/)]  
+***European Conference on Computer Vision (ECCV)***, Virtual, Aug 2020*
+3. AdGraph: A Graph-Based Approach to Ad and Tracker Blocking [[paper](pdfs/oakland20_adgraph.pdf)][[code](https://uiowa-irl.github.io/AdGraph/)]  
 Umar Iqbal, Peter Snyder, **Shitong Zhu**, Benjamin Livshits, Zhiyun Qian and Zubair Shafiq  
-***IEEE Symposium on Security & Privacy (S&P)**, Virtual, May 2020*
-3. SymTCP: Eluding Stateful Deep Packet Inspection with Automated Discrepancy Discovery [[paper](pdfs/ndss20_symtcp.pdf)][[code](https://github.com/seclab-ucr/sym-tcp)]  
+***IEEE Symposium on Security & Privacy (S&P)***, Virtual, May 2020*
+4. SymTCP: Eluding Stateful Deep Packet Inspection with Automated Discrepancy Discovery [[paper](pdfs/ndss20_symtcp.pdf)][[code](https://github.com/seclab-ucr/sym-tcp)]  
 Zhongjie Wang, **Shitong Zhu**, Yue Cao, Zhiyun Qian, Chengyu Song, Srikanth Krishnamurthy, Tracy D. Braun and Kevin S. Chan  
-***Network & Distributed System Security Symposium (NDSS)**, San Diego, CA, Feb 2020*
-4. ShadowBlock: A Lightweight and Stealthy Adblocking Browser [[paper](pdfs/www19_shadowblock.pdf)][[code](https://github.com/seclab-ucr/ShadowBlock)][[demo](https://www.youtube.com/watch?v=RLC90MU8Xdg)]  
+***Network & Distributed System Security Symposium (NDSS)***, San Diego, CA, Feb 2020*
+5. ShadowBlock: A Lightweight and Stealthy Adblocking Browser [[paper](pdfs/www19_shadowblock.pdf)][[code](https://github.com/seclab-ucr/ShadowBlock)][[demo](https://www.youtube.com/watch?v=RLC90MU8Xdg)]  
 **Shitong Zhu**, Umar Iqbal, Zhongjie Wang, Zhiyun Qian, Zubair Shafiq and Weiteng Chen  
-***The Web Conference (WWW)**, San Francisco, CA, May 2019*
-5. Measuring and Disrupting Anti-Adblockers Using Differential Execution Analysis [[paper](pdfs/ndss18_anti_adblock.pdf)][[slides](pdfs/ndss18_anti_adblock_slides.pdf)][[video](https://www.youtube.com/watch?v=HWFXKXXd-AY)][[code](https://github.com/shitongzhu/Anti-anti-adblocker)]  
+***The Web Conference (WWW)***, San Francisco, CA, May 2019*
+6. Measuring and Disrupting Anti-Adblockers Using Differential Execution Analysis [[paper](pdfs/ndss18_anti_adblock.pdf)][[slides](pdfs/ndss18_anti_adblock_slides.pdf)][[video](https://www.youtube.com/watch?v=HWFXKXXd-AY)][[code](https://github.com/shitongzhu/Anti-anti-adblocker)]  
 **Shitong Zhu**, Xunchao Hu, Zhiyun Qian, Zubair Shafiq and Heng Yin  
-***The Network & Distributed System Security Symposium (NDSS)**, San Diego, CA, Feb 2018*
-6. On Selecting Composite Network-Cloud Services: A Quality-of-Service Based Approach [[paper](pdfs/racs15_composite_qos.pdf)]  
+***The Network & Distributed System Security Symposium (NDSS)***, San Diego, CA, Feb 2018*
+7. On Selecting Composite Network-Cloud Services: A Quality-of-Service Based Approach [[paper](pdfs/racs15_composite_qos.pdf)]  
 Minkailu Mohamed Jalloh, **Shitong Zhu**, Fang Fang and Jun Huang  
 *International Conference on Research in Adaptive and Convergent Systems (RACS), Prague, Czechia, Oct 2015*
-7. A Source-location Privacy Protection Strategy via Pseudo Normal Distribution-based Phantom Routing in WSNs [[paper](pdfs/sac15_phatom_routing.pdf)]  
+8. A Source-location Privacy Protection Strategy via Pseudo Normal Distribution-based Phantom Routing in WSNs [[paper](pdfs/sac15_phatom_routing.pdf)]  
 Jun Huang, Meisong Sun, **Shitong Zhu**, Yi Sun, Cong-cong Xing and Qiang Duan  
 *The 30th Annual ACM Symposium on Applied Computing (SAC), Salamanca, Spain, April 2015*
-8. A Defense Model of Reactive Worms Based on Dynamic Time [[paper](pdfs/jsw14_reactive_worms.pdf)]  
+9. A Defense Model of Reactive Worms Based on Dynamic Time [[paper](pdfs/jsw14_reactive_worms.pdf)]  
 Haokun Tang, **Shitong Zhu**, Jun Huang and Hong Liu  
 *Journal of Software, Nov 2014*
-9. Propagation of Active Worms in P2P Networks: Modeling and Analysis [[paper](pdfs/jcp14_active_worms.pdf)]  
+10. Propagation of Active Worms in P2P Networks: Modeling and Analysis [[paper](pdfs/jcp14_active_worms.pdf)]  
 Haokun Tang, Yukui Lu, **Shitong Zhu** and Jun Huang  
 *Journal of Computers, Nov 2014*
 
