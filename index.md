@@ -9,7 +9,7 @@ layout: default
 Howdy! I'm currently a 4th-year Computer Science Ph.D. candidate at University of California, Riverside (UCR). My advisor is Prof [Zhiyun Qian](https://www.cs.ucr.edu/~zhiyunq/).
 
 ## News
-Jul/2020: Our paper on leveraging context learning to thwart DPI evasion attacks conditionally accepted at CoNEXT 2020.  
+Sep/2020: Our paper on leveraging context learning to thwart DPI evasion attacks conditionally accepted at CoNEXT 2020.  
 Jul/2020: Our paper on leveraging context consistency to detect adversarial perturbations for object detectors accepted at ECCV 2020.  
 Apr/2020: Received the Dissertation Year Program (DYP) Award. Thanks UCR!  
 Jan/2020: Manuscript posted on arXiv.  
