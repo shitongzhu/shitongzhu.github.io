@@ -50,7 +50,7 @@ arXiv preprint arXiv:2001.10999
 1. You Do (Not) Belong Here: Detecting DPI Evasion Attacks with Context Learning [[paper](pdfs/conext20_clap.pdf)][[code](https://github.com/seclab-ucr/CLAP)]  
 **Shitong Zhu**, Shasha Li, Zhongjie Wang, Xun Chen, Zhiyun Qian, Srikanth V. Krishnamurthy, Kevin S. Chan, Ananthram Swami  
 To appear in ***Conference on emerging Networking EXperiments and Technologies (CoNEXT)**, Virtual, Dec 2020*
-2. Connecting the Dots: Detecting Adversarial Perturbations Using Context Inconsistency  
+2. Connecting the Dots: Detecting Adversarial Perturbations Using Context Inconsistency [[paper](pdfs/eccv20_sceme.pdf)]  
 Shasha Li, **Shitong Zhu**, Sudipta Paul, Amit Roy-chowdhury, Chengyu Song, Srikanth Krishnamurthy, Ananthram Swami, Kevin S Chan  
 ***European Conference on Computer Vision (ECCV)**, Virtual, Aug 2020*
 3. AdGraph: A Graph-Based Approach to Ad and Tracker Blocking [[paper](pdfs/oakland20_adgraph.pdf)][[code](https://uiowa-irl.github.io/AdGraph/)]  
