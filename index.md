@@ -9,6 +9,7 @@ layout: default
 Howdy! I'm currently a 4th-year Computer Science Ph.D. candidate at University of California, Riverside (UCR). My advisor is Prof [Zhiyun Qian](https://www.cs.ucr.edu/~zhiyunq/).
 
 ## News
+Nov/2020: AdGraph won [3rd place](https://43f60238-2232-4612-9aac-81bc9da2dd4e.filesusr.com/ugd/acbc49_b50121f704e8410e86555a8af0928e8b.pdf) for the applied research paper award at CSAW (US-CAN region).  
 Sep/2020: Our paper on leveraging context learning to thwart DPI evasion attacks conditionally accepted at CoNEXT 2020.  
 Jul/2020: Our paper on leveraging context consistency to detect adversarial perturbations for object detectors accepted at ECCV 2020.  
 Apr/2020: Received the Dissertation Year Program (DYP) Award. Thanks UCR!  
