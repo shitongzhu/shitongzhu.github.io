@@ -56,7 +56,8 @@ Shasha Li, **Shitong Zhu**, Sudipta Paul, Amit Roy-chowdhury, Chengyu Song, Srik
 ***European Conference on Computer Vision (ECCV)**, Virtual, Aug 2020*
 3. AdGraph: A Graph-Based Approach to Ad and Tracker Blocking [[paper](pdfs/oakland20_adgraph.pdf)][[code](https://uiowa-irl.github.io/AdGraph/)]  
 Umar Iqbal, Peter Snyder, **Shitong Zhu**, Benjamin Livshits, Zhiyun Qian and Zubair Shafiq  
-***IEEE Symposium on Security & Privacy (S&P)**, Virtual, May 2020*
+***IEEE Symposium on Security & Privacy (S&P)**, Virtual, May 2020*  
+[<span style="color:red">CSAW 2020 3rd Place</span>](https://43f60238-2232-4612-9aac-81bc9da2dd4e.filesusr.com/ugd/acbc49_b50121f704e8410e86555a8af0928e8b.pdf)
 4. SymTCP: Eluding Stateful Deep Packet Inspection with Automated Discrepancy Discovery [[paper](pdfs/ndss20_symtcp.pdf)][[code](https://github.com/seclab-ucr/sym-tcp)]  
 Zhongjie Wang, **Shitong Zhu**, Yue Cao, Zhiyun Qian, Chengyu Song, Srikanth Krishnamurthy, Tracy D. Braun and Kevin S. Chan  
 ***Network & Distributed System Security Symposium (NDSS)**, San Diego, CA, Feb 2020*
