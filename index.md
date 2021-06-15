@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="profile.jpeg">
 
-Howdy! I'm currently a <s>1st</s> <s>2nd</s> <s>3rd</s> <s>4th</s> 5th-year Computer Science Ph.D. candidate at University of California, Riverside (UCR). My advisor is Prof [Zhiyun Qian](https://www.cs.ucr.edu/~zhiyunq/).
+Howdy! I'm currently a <s>1st</s> <s>2nd</s> <s>3rd</s> <s>4th</s> 5th-year Computer Science Ph.D. candidate at University of California, Riverside (UCR). My advisor is Prof [Zhiyun Qian](https://www.cs.ucr.edu/~zhiyunq/) and Prof [‪Srikanth Krishnamurthy‬](https://www.cs.ucr.edu/~krish/).
 
 ## News
 Nov/2020: AdGraph won [3rd place](https://43f60238-2232-4612-9aac-81bc9da2dd4e.filesusr.com/ugd/acbc49_b50121f704e8410e86555a8af0928e8b.pdf) for the applied research paper award at CSAW (US-CAN region).  
