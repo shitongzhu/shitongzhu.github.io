@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="profile.png">
+<img class="profile-picture" src="profile.jpeg">
 
 Howdy! I'm currently a <s>1st</s> <s>2nd</s> <s>3rd</s> <s>4th</s> 5th-year Computer Science Ph.D. candidate at University of California, Riverside (UCR). My advisor is Prof [Zhiyun Qian](https://www.cs.ucr.edu/~zhiyunq/).
 
