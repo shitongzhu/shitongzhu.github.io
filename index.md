@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="profile.png">
 
-Howdy! I'm currently a 4th-year Computer Science Ph.D. candidate at University of California, Riverside (UCR). My advisor is Prof [Zhiyun Qian](https://www.cs.ucr.edu/~zhiyunq/).
+Howdy! I'm currently a <s>1st</s> <s>2nd</s> <s>3rd</s> <s>4th</s> 5th-year Computer Science Ph.D. candidate at University of California, Riverside (UCR). My advisor is Prof [Zhiyun Qian](https://www.cs.ucr.edu/~zhiyunq/).
 
 ## News
 Nov/2020: AdGraph won [3rd place](https://43f60238-2232-4612-9aac-81bc9da2dd4e.filesusr.com/ugd/acbc49_b50121f704e8410e86555a8af0928e8b.pdf) for the applied research paper award at CSAW (US-CAN region).  
@@ -110,4 +110,4 @@ Beijing, China - Jul/2015 to Sep/2015
 - Sub-reviewer: [NDSS '19](https://www.ndss-symposium.org/ndss2019/)/['20](https://www.ndss-symposium.org/ndss2020/), [CCS '19](https://www.sigsac.org/ccs/CCS2019/), [S&P '19](https://www.ieee-security.org/TC/SP2019/)/['20](https://www.ieee-security.org/TC/SP2020/)  
 
 ## Miscellaneous
-I currently moderate Security Reading Group at UCR CSE, with an audience body of ~20 people.
+I currently moderate Security Reading Group at UCR CSE, with an audience body of ~20 people. Past presentations can be found [here](https://docs.google.com/spreadsheets/d/1FJanYoWV1WlVXMVTg4hJ_O-wyZcOxGsCcAYAAHKOhIY/edit?usp=sharing).
