@@ -9,8 +9,10 @@ layout: default
 Howdy! I'm currently a <s>1st</s> <s>2nd</s> <s>3rd</s> <s>4th</s> 5th-year Computer Science Ph.D. candidate at University of California, Riverside (UCR). I am co-advised by Prof [Zhiyun Qian](https://www.cs.ucr.edu/~zhiyunq/) and Prof [‪Srikanth Krishnamurthy‬](https://www.cs.ucr.edu/~krish/).
 
 ## News
+Jun/2021: Joined IBM Thomas J. Watson Research Center as a summer research intern, supervised by [Supriyo Chakraborty](https://researcher.watson.ibm.com/researcher/view.php?person=us-supriyo).  
 Nov/2020: AdGraph won [3rd place](https://43f60238-2232-4612-9aac-81bc9da2dd4e.filesusr.com/ugd/acbc49_b50121f704e8410e86555a8af0928e8b.pdf) for the applied research paper award at CSAW (US-CAN region).  
 Sep/2020: Our paper on leveraging context learning to thwart DPI evasion attacks conditionally accepted at CoNEXT 2020.  
+Jul/2020: Joined Facebook as a PhD ML SWE intern.  
 Jul/2020: Our paper on leveraging context consistency to detect adversarial perturbations for object detectors accepted at ECCV 2020.  
 Apr/2020: Received the Dissertation Year Program (DYP) Award. Thanks UCR!  
 Jan/2020: Manuscript posted on arXiv.  
@@ -95,8 +97,10 @@ Haokun Tang, Yukui Lu, **Shitong Zhu** and Jun Huang
 
 ## Work Experience
 
+* Summer Research Intern @ IBM Research  
+Remote - Jun/2021 to present
 * PhD ML Software Engineer Intern @ Facebook  
-Remote - Jul/2020 to present 
+Remote - Jul/2020 to Sep/2020
 * Research Intern @ Samsung Research America  
 Remote - Jan/2020 to Mar/2020  
 Mountain View, CA - Jun/2019 to Sep/2019
