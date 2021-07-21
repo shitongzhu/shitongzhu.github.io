@@ -52,7 +52,7 @@ arXiv preprint arXiv:2001.10999
 ## Publications
 
 1. Themis: Ambiguity-Aware Network Intrusion Detection based on Symbolic Model Comparison  
-Zhongjie Wang, **Shitong Zhu**, Keyu Man, Pengxiong Zhu, Yu Hao, Zhiyun Qian, Srikanth V. Krishnamurthy, Tom La Porta, Michael J. De Lucia
+Zhongjie Wang, **Shitong Zhu**, Keyu Man, Pengxiong Zhu, Yu Hao, Zhiyun Qian, Srikanth V. Krishnamurthy, Tom La Porta, Michael J. De Lucia  
 To appear in ***ACM Conference on Computer and Communications Security (CCS)**, Seoul, South Korea, Nov 2020*
 2. You Do (Not) Belong Here: Detecting DPI Evasion Attacks with Context Learning [[paper](pdfs/conext20_clap.pdf)][[code](https://github.com/seclab-ucr/CLAP)]  
 **Shitong Zhu**, Shasha Li, Zhongjie Wang, Xun Chen, Zhiyun Qian, Srikanth V. Krishnamurthy, Kevin S. Chan, Ananthram Swami  
